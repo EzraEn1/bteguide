@@ -14,6 +14,7 @@ Welcome to Build The Earth!
    Build The Earth Guide (new) <guide/index.rst>
    Building Guidebook (old) <old/index.rst>
    contributing
+   translating
 
 .. 
    Indices and tables
